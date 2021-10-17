@@ -1,4 +1,4 @@
-### Hi there
+### About me
 
 I mainly focused on the front-end with many technologies and methodologies for over 6 years.
 
