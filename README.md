@@ -2,7 +2,7 @@
 
 Mainly focused on the front-end with many technologies and methodologies for over 6 years.
 
-### My Expertise
+### ✨ My Expertise ✨
 
 ⭐Programming Lanugage: JavaScript, TypeScript, HTML5, CSS3
 
@@ -12,7 +12,9 @@ Mainly focused on the front-end with many technologies and methodologies for ove
 
 ⭐Issue, Project tracking tool: Asana, Jira, Trello
 
+
 So far, I've developed and participated in the planning of projects for dozens of clients and their agencies, each with its own processes.
+
 
 Thanks for visiting!
 
