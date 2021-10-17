@@ -19,7 +19,7 @@ So far, I've developed and participated in the planning of projects for dozens o
 https://www.linkedin.com/in/vladyslav-dmytrenko-05/
 
 
-Thanks for visiting!
+
 
 <!--
 **vladyslavdmytrenko05/vladyslavdmytrenko05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
