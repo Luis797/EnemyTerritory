@@ -1,16 +1,25 @@
+<h1 align="center">I'm a certified C# developer
+</h1>
+
 ### About me
 
-I mainly focused on the front-end with many technologies and methodologies for over 6 years.
+As a senior game developer, I've been developing the 2D/3D games from small to big sized game companies.
+
+Mostly, I developed all games from scratch, .
 
 ### My Expertise 
 
-⭐Programming Lanugage: JavaScript, TypeScript, HTML5, CSS3
+⭐ Game Development Programming Languages: C#, C++ ...
 
-⭐Front-End: React.js, Redux, Vue.js, Angular JS, Angular, Bootstrap, Tailwind CSS
+⭐Devices: PC, Phone, VR
 
-⭐Source Management tool: GitHub, GitLab
+⭐Platforms: iOS, Android, Windows, macOS
+
+⭐Game Engines: Unity, Unreal Engine ...
+
+⭐Game Genres: Action, Puzzle, Adventure, Online Multiplayer, Role Playing Game, Real-Time Strategy, Card, Casual Game ...
 
 ⭐Issue, Project tracking tool: Asana, Jira, Trello
 
-So far, I've developed and participated in the planning of projects for dozens of clients and their agencies, each with its own processes.
+⭐Vertion Control: GitHub
 
