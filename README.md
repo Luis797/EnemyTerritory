@@ -1,4 +1,4 @@
-<h1 align="center">🏆 Senor 2D/3D Game Developer with 6 Years of Hands-on Experience 🏆
+<h1 align="center">🏆 Senior 2D/3D Game Developer with 6 Years of Hands-on Experience 🏆
 </h1>
 
 ### 📌 About Me 📌
