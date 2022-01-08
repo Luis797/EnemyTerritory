@@ -1,7 +1,7 @@
-<h1 align="center">Senor 2D/3D Game Developer
+<h1 align="center">🏆 Senor 2D/3D Game Developer with 6 Years of Hands-on Experience 🏆
 </h1>
 
-### 📌 About me 📌
+### 📌 About Me 📌
 
 As a senior game developer, I've been developing the 2D/3D games from small to big sized game companies.
 
@@ -9,7 +9,7 @@ Mostly, I developed all games from scratch in team working environment.
 
 ### 📌 My Expertise 📌
 
-⭐ Game Development Programming Languages: C#, C++ ...
+⭐ Game Development Programming Languages: C#, C++
 
 ⭐Devices: PC, Phone, VR
 
