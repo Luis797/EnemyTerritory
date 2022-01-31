@@ -11,7 +11,7 @@ Mostly, I developed all games from scratch in team working environment.
 
 ### 📌 My Expertise 📌
 
-⭐ Game Development Programming Languages: C#, C++
+⭐ Game Development Programming Languages: C#, C++, JavaScript, Java ...
 
 ⭐Devices: PC, Phone, VR
 
@@ -21,7 +21,7 @@ Mostly, I developed all games from scratch in team working environment.
 
 ⭐Game Genres: MMORPG, Action, Puzzle, Adventure, Real-Time Strategy, Card, Casual Game ...
 
-⭐Issue, Project tracking tool: Asana, Jira, Trello
+⭐Issue, Project tracking tool: Asana, Jira, Trello, Monday
 
 ⭐Vertion Control: GitHub
 
